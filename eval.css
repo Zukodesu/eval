@@ -1,0 +1,27 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    margin-left: 50px;
+}
+h1{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+#valeur{
+    text-align: center;
+}
+
+button{
+
+    display: inline-block;
+    padding: 12px 18px;
+    font-size: 18px;
+    min-width: 56px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 20px;
+}
